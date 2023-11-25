@@ -10,11 +10,11 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+  HEO_HERO_TITLE_1: '你来了',
+  HEO_HERO_TITLE_2: '就不要走了',
+  HEO_HERO_TITLE_3: 'lzw',
+  HEO_HERO_TITLE_4: 'Q',
+  HEO_HERO_TITLE_5: '欢迎你的到来',
   HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
 
   // 英雄区显示三个置顶分类
@@ -30,6 +30,7 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
+    '👦🏻二五班的一位成员',
     '🔍 分享与热心帮助',
     '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
@@ -103,7 +104,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_URL: 'https://izw.zeabur.app',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
